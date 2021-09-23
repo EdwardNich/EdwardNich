@@ -1,0 +1,88 @@
+https://wiredroid.com/
+https://css-tricks.com/a-guide-to-console-commands/
+https://aliongz.wordpress.com/2010/05/05/tes-logika/
+https://en.wikipedia.org/wiki/Singleton_pattern
+https://fajaraldev.github.io/template-birthday-040421/
+https://projecteuler.net/archives
+https://vercel.com/
+https://iconape.com/get-it-on-google-play-badge-logo-logo-icon-svg-png.html
+https://www.codegrepper.com/welcome.php
+
+test skilvul
+http://jsfiddle.net/cog2ah70/
+
+mozio challange
+https://jsfiddle.net/paolor0ck5/L59okdv6/114/
+
+template cv
+https://dyp.im/template-cv-resume-siap-edit/#3_-_Desain_CV_Simple_Profesional_-_Word
+
+golang by gojek
+https://www.gojek.io/blog/build-a-web-application-in-golang
+
+redux from medium
+https://medium.com/easyread/belajar-redux-dalam-3-menit-b9afc7bc59f0
+
+redux for beginner
+https://dev.to/myogeshchavan97/redux-for-beginners-learn-redux-basics-with-code-examples-4b1e
+
+pembuatan app redux from appkey.id
+https://appkey.id/pembuatan-aplikasi/mobile-programming/redux-adalah/
+
+jsx auto complete
+https://stackoverflow.com/questions/39320393/jsx-or-html-autocompletion-in-visual-studio-code
+
+song
+https://www.youtube.com/watch?v=fbHQhvTG7BA
+https://www.youtube.com/watch?v=g0zeil54WqM
+
+js async visualizer
+http://latentflip.com/
+
+factory (oop)
+https://en.wikipedia.org/wiki/Factory_(object-oriented_programming)
+
+IIFE (Immediatly Invoked Function Expression)
+https://flaviocopes.com/javascript-iife/
+
+icon ionic
+https://orioniconlibrary.com/icon-pack/e-commerce?style=flat
+
+todoist
+https://todoist.com/app/today
+
+styled components - library
+https://styled-components.com/
+
+10 coding challange from freecodecamp
+https://www.freecodecamp.org/news/the-10-most-popular-coding-challenge-websites-of-2016-fb8a5672d22f/
+
+soal test untuk programmer
+https://www.kaskus.co.id/thread/5c9dcea85cf6c404ff60b1da/soal-test-programmer-untuk-junior-programmer/
+
+how to build an app from freshman
+https://freshman.tech/todo-list/
+
+styling radio button
+https://www.sliderrevolution.com/resources/styling-radio-buttons/
+
+53 web design tools 
+https://www.creativebloq.com/features/best-web-design-tools
+
+resources from devto
+https://dev.to/gedalyakrycer/165-developer-resources-i-discovered-in-2020-2021-6ma#jsSection
+
+star pattern in js from stackoverflow
+https://stackoverflow.com/questions/28365737/how-to-print-star-pattern-in-javascript-in-a-very-simple-manner
+
+python turtle
+https://realpython.com/beginners-guide-python-turtle/
+
+codegrepper
+https://www.codegrepper.com/welcome.php
+
+learn promise async from freecodecamp
+https://www.freecodecamp.org/news/learn-promise-async-await-in-20-minutes/
+
+soal untuk jadi programmer from latcoding
+http://latcoding.com/2015/10/20/soal-test-coding-untuk-jadi-programmer/
